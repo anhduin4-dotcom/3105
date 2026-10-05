@@ -1,4 +1,5 @@
-<p align="center">
+<p align="cen
+  ter">
   <img src="docs/images/app-icon.png" width="132" alt="3105 app icon">
 </p>
 
